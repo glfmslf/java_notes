@@ -9,7 +9,7 @@
 ### @PostConstruct
 java注解 Constructor(构造方法) -> @Autowired(依赖注入) -> @PostConstruct -> init
 
-参考[链接](https://blog.csdn.net/Asa_Prince/article/details/118342171)
+[参考链接](https://blog.csdn.net/Asa_Prince/article/details/118342171)
 
 
 * 构造函数
