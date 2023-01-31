@@ -19,5 +19,5 @@ java注解 Constructor(构造方法) -> @Autowired(依赖注入) -> @PostConstru
 * InitializingBean 接口的 afterPropertiesSet 方法
 * 等所有 bean 初始化完成后，ApplicationListener<ApplicationEvent> 接口的 onApplicationEvent 方法接收 ContextRefreshedEvent 事件。
 
-参考[链接](https://www.letianbiji.com/spring/sca-spring-postcontruct-initializingbean-run-order.html)
+[参考链接](https://www.letianbiji.com/spring/sca-spring-postcontruct-initializingbean-run-order.html)
 
